@@ -1,5 +1,6 @@
 # Superstore-sales-analysis
 A dynamic Excel dashboard project analyzing Superstore sales data, and it has been a powerful exercise turning raw data into actionable insights. 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7362884907376783360?collapsed=1" height="541" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
 
 Problem Statement
 
